@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="library" version="3.1" method="upgrade">
+    <name>Rails Message Decryptor Library</name>
+    <libraryname>railsmessage</libraryname>
+    <version>0.1</version>
+    <description>Decryptor for Rails Encrypted Messages</description>
+    <creationDate>2014</creationDate>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <author>DZ Dev Team</author>
+    <authorUrl>http://dzdev.com</authorUrl>
+    <files>
+        <filename>message.php</filename>
+        <file>index.html</file>
+    </files>
+</extension>
+
