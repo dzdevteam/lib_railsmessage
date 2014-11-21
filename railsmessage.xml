@@ -9,7 +9,8 @@
     <author>DZ Dev Team</author>
     <authorUrl>http://dzdev.com</authorUrl>
     <files>
-        <filename>message.php</filename>
+        <filename>railsmessage.php</filename>
+        <filename>railsmessage.xml</filename>
         <file>index.html</file>
     </files>
 </extension>
